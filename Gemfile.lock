@@ -3,7 +3,7 @@ PATH
   specs:
     nagiosharder (0.5.0.rc1)
       activesupport
-      hashie (~> 1.2.0)
+      hashie
       httparty
       i18n
       nokogiri
